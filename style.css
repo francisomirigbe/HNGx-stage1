@@ -1,0 +1,50 @@
+body{
+    height: 100vh;
+    margin: 0;
+}
+
+header{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    padding: 10px;
+
+
+}
+
+section{
+    display: flex;
+    background-color: bisque;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.picture{
+    margin-right: 55px;
+}
+
+
+img{
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    object-fit: cover;
+    
+}
+
+.details{
+    
+    font-size: 35px;
+    margin-bottom: 50px;
+
+}
+
+button{
+    border-radius: 5px;
+    padding: 10px;
+}
+
+
+
+    
